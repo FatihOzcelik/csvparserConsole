@@ -1,8 +1,5 @@
 /*
 Author: Fatih Özcelik
-
-Project: Javascript Programming challenge from Morning Train.
-Project description: "The goal of the challenge is to build a CSV parser as an includable NPM (file) module."
 */
 
 var fs = require('fs')
